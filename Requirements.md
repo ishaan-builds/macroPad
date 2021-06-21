@@ -1,22 +1,22 @@
 # Requirements
 
-These Ardunio Libraries are needed for this project:
+Arduino Libraries (How to install: https://learn.tinycircuits.com/Help/Installing_Libraries_Tutorial):
 
 - HID-Project.h
 - CD74HC4067.h
 
-
-These peices of software are also required:
+Software and Applications:
 
 - Arduino IDE
 - AutoHotKey
-- InkScape
+- Inkscape
 
-Parts and matirials:
+Parts and materials (all links are for reference, and parts do not have to be bought from these specific vendors):
 
 - Arduino Pro Micro/Leonardo x2
-- Sheet of Acrylic
-- Cherry MX Keyboard switches x2
-- linear sliding potentiometer
-- small LED x3
-- wiring materials
+- Micro-USB Cables x2
+- 3mm Sheet of Acrylic
+- Cherry MX Keyboard switches (Non-LED variant) x9
+- Arduino 10K Ohm Linear sliding potentiometer
+- LED x3
+- General wiring materials (soldering iron, etc)
