@@ -1,0 +1,81 @@
+;Stage==1
+
++F16::
+run, "C:\Users\Ishaan Malhotra\Documents\DisplayPowerOff-4.1\x64\doff.exe"
+return
+
++F17::
+run, "C:\Users\Ishaan Malhotra\AppData\Local\Playnite\Playnite.DesktopApp.exe"
+return
+
++F18::
+run, "C:\Program Files\qBittorrent\qbittorrent.exe"
+return
+
++F19::
+run, "C:\Program Files\ALVR\ALVR Launcher.exe"
+return
+
++F20::
+run, https://www.youtube.com/watch?v=XULUBg_ZcAU&ab_channel=relaxdaily
+return
+
++F21::
+run, "C:\Users\Ishaan Malhotra\Desktop\HBXQ.lnk"
+return
+
++F22::
+run, "C:\Windows\System32\Taskmgr.exe"
+return
+
++F23::
+run, "C:\Windows\explorer.exe"
+return
+
++F24::
+run, "C:\Users\Ishaan Malhotra\Desktop\CHINA NET.lnk"
+return
+
+
+
+
+;Stage==2
+
+!F16::
+Send, 1
+return
+
+!F17::
+Send, 2
+return
+
+!F18::
+Send, 3
+return
+
+!F19::
+Send, 4
+return
+
+!F20::
+Send, 5
+return
+
+!F21::
+Send, 6
+return
+
+!F22::
+Send, 7
+return
+
+!F23::
+Send, 8
+return
+
+!F24::
+Send, 9
+return
+
+
+
